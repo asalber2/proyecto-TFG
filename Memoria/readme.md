@@ -1,0 +1,1 @@
+Aquí va la memoria, bien en LaTeX o quarto.
